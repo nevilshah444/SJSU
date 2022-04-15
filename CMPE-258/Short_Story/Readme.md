@@ -1,1 +1,5 @@
 
+Medium article: https://medium.com/@nevilshah444/deep-learning-an-extensive-overview-b2522e805dd5
+
+Presentation link: https://docs.google.com/presentation/d/16k9ONXfmFKaeFn3yccvGW-PyvXl5VRRdrX4sKS-ayAU/edit#slide=id.g121e43ff192_0_1201
+
